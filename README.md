@@ -14,7 +14,7 @@ film tablosunda bulunan tüm sütunlardaki verilerden title 'C' karakteri ile ba
 Kolay Gelsin.
 
 
-#ÇÖZÜMLER
+# ÇÖZÜMLER
 
 ## 1.country tablosunda bulunan country sütunundaki ülke isimlerinden 'A' karakteri ile başlayıp 'a' karakteri ile sonlananları sıralayınız.
 
